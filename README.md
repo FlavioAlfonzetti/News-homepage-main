@@ -1,4 +1,4 @@
-# News homepage main
+# News homepage
 Landing page for a technology news website created following a design made by Frontend Mentor.  
 This project was made using HTML, SCSS and JS. Responsive for mobile, laptop and desktop.
 <br>
